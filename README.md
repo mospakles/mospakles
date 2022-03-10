@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mospakles
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning software engineering 
+- 💞️ I’m looking to collaborate on front-end projects 
 - 📫 How to reach me motunrayodusina@gmail.com
 
 <!---
