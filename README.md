@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mospakles
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning software engineering 
+- 👋 Hi, I’m Motunrayo Odusina
+- 👀 I'm a frontend developer
 - 💞️ I’m looking to collaborate on front-end projects 
 - 📫 How to reach me motunrayodusina@gmail.com
 
